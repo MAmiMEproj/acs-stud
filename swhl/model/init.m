@@ -4,4 +4,6 @@
 %% initial script
 % params
 homeDir = pwd;
-scriptVer = 0.1;
+scriptVer = 0.2;
+timeSample = 1/4000;
+
